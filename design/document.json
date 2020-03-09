@@ -23,7 +23,7 @@
             "clip" : true,
             "codeComponentIdentifier" : ".\/Lecture9Component.tsx_Lecture9Component",
             "codeComponentProps" : {
-              "rotate" : 12,
+              "rotable" : 15,
               "text" : "I can change",
               "tint" : "#0099ff"
             },
@@ -70,16 +70,16 @@
           {
             "__class" : "CodeComponentNode",
             "aspectRatio" : null,
-            "bottom" : 82,
+            "bottom" : null,
             "centerAnchorX" : 0.51301115241635686,
-            "centerAnchorY" : 0.66666666666666663,
+            "centerAnchorY" : 0.41090909090909089,
             "children" : [
 
             ],
             "clip" : true,
             "codeComponentIdentifier" : ".\/Lecture9Component.tsx_Lecture9Component",
             "codeComponentProps" : {
-              "rotate" : 0,
+              "rotable" : 15,
               "text" : "Hello Framer!",
               "tint" : "#0099ff"
             },
@@ -118,6 +118,62 @@
             "radiusTopRight" : 0,
             "right" : 11,
             "rotation" : 0,
+            "top" : 162,
+            "visible" : true,
+            "width" : 240,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 58,
+            "centerAnchorX" : 0.5018587360594795,
+            "centerAnchorY" : 0.7781818181818182,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Lecture9Component.tsx_Lecture9Component",
+            "codeComponentProps" : {
+              "rotable" : 60,
+              "text" : "Hello Framer!",
+              "tint" : "#0099ff"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 128,
+            "heightType" : 0,
+            "id" : "Y3yVU8ju2",
+            "intrinsicHeight" : 128,
+            "intrinsicWidth" : 240,
+            "left" : 15,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "cGWvlRZPn",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 14,
+            "rotation" : 0,
             "top" : null,
             "visible" : true,
             "width" : 240,
@@ -145,7 +201,7 @@
         "guidesY" : [
 
         ],
-        "height" : 438,
+        "height" : 550,
         "heightType" : 0,
         "id" : "cGWvlRZPn",
         "intrinsicHeight" : null,
