@@ -14,7 +14,7 @@ export function Lecture9Component(props) {
             whileHover={{
                 scale: 1.1,
             }}
-            rotate={props.rotate}
+            rotate={props.rotable}
             style={{
                 color: "#fff",
                 fontSize: 16,
@@ -31,7 +31,7 @@ Lecture9Component.defaultProps = {
     width: 240,
     text: "Get started!",
     tint: "#0099ff",
-    rotate: 15,
+    rotable: 60,
 }
 
 // Learn more: https://framer.com/api/property-controls/
@@ -46,9 +46,9 @@ addPropertyControls(Lecture9Component, {
         type: ControlType.Color,
         defaultValue: "#0099ff",
     },
-    rotate: {
-        title: "Rotate",
+    rotable: {
+        title: "Rotable",
         type: ControlType.Number,
-        defaultValue: 15,
+        defaultValue: 60,
     },
 })
