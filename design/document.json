@@ -135,7 +135,7 @@
             "clip" : true,
             "codeComponentIdentifier" : ".\/Lecture9Component.tsx_Lecture9Component",
             "codeComponentProps" : {
-              "rotable" : 60,
+              "rotable" : 0,
               "text" : "Hello Framer!",
               "tint" : "#0099ff"
             },
