@@ -1,0 +1,202 @@
+{
+  "root" : {
+    "__class" : "RootNode",
+    "children" : [
+      {
+        "__class" : "FrameNode",
+        "aspectRatio" : null,
+        "blendingEnabled" : 0,
+        "blendingMode" : "normal",
+        "bottom" : null,
+        "centerAnchorX" : 0,
+        "centerAnchorY" : 0,
+        "children" : [
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : null,
+            "centerAnchorX" : 0,
+            "centerAnchorY" : 0,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Lecture9Component.tsx_Lecture9Component",
+            "codeComponentProps" : {
+              "rotate" : 12,
+              "text" : "I can change",
+              "tint" : "#0099ff"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 128,
+            "heightType" : 0,
+            "id" : "l7Y8fN2f3",
+            "intrinsicHeight" : 128,
+            "intrinsicWidth" : 240,
+            "left" : 18,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "cGWvlRZPn",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : null,
+            "rotation" : 0,
+            "top" : 9,
+            "visible" : true,
+            "width" : 240,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 82,
+            "centerAnchorX" : 0.51301115241635686,
+            "centerAnchorY" : 0.66666666666666663,
+            "children" : [
+
+            ],
+            "clip" : true,
+            "codeComponentIdentifier" : ".\/Lecture9Component.tsx_Lecture9Component",
+            "codeComponentProps" : {
+              "rotate" : 0,
+              "text" : "Hello Framer!",
+              "tint" : "#0099ff"
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImageOriginalName" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 128,
+            "heightType" : 0,
+            "id" : "sgsk9A9JP",
+            "intrinsicHeight" : 128,
+            "intrinsicWidth" : 240,
+            "left" : 18,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "cGWvlRZPn",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 11,
+            "rotation" : 0,
+            "top" : null,
+            "visible" : true,
+            "width" : 240,
+            "widthType" : 0
+          }
+        ],
+        "clip" : true,
+        "codeOverrideEnabled" : false,
+        "constraintsLocked" : false,
+        "deviceType" : null,
+        "exportOptions" : [
+
+        ],
+        "fillColor" : "white",
+        "fillEnabled" : true,
+        "fillImage" : null,
+        "fillImageOriginalName" : null,
+        "fillImagePixelHeight" : null,
+        "fillImagePixelWidth" : null,
+        "fillImageResize" : "fill",
+        "fillType" : "color",
+        "guidesX" : [
+
+        ],
+        "guidesY" : [
+
+        ],
+        "height" : 438,
+        "heightType" : 0,
+        "id" : "cGWvlRZPn",
+        "intrinsicHeight" : null,
+        "intrinsicWidth" : null,
+        "isExternalMaster" : null,
+        "isMaster" : false,
+        "isTarget" : false,
+        "left" : 0,
+        "locked" : false,
+        "name" : null,
+        "navigationTarget" : null,
+        "navigationTransition" : "push",
+        "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
+        "navigationTransitionDirection" : "left",
+        "opacity" : 1,
+        "originalid" : null,
+        "parentid" : "YcHgXxnHT",
+        "previewSettings" : null,
+        "radius" : 0,
+        "radiusBottomLeft" : 0,
+        "radiusBottomRight" : 0,
+        "radiusIsRelative" : false,
+        "radiusPerCorner" : false,
+        "radiusTopLeft" : 0,
+        "radiusTopRight" : 0,
+        "replicaInfo" : null,
+        "right" : null,
+        "rotation" : 0,
+        "top" : 0,
+        "visible" : true,
+        "width" : 269,
+        "widthType" : 0
+      }
+    ],
+    "guidesX" : [
+
+    ],
+    "guidesY" : [
+
+    ],
+    "id" : "YcHgXxnHT",
+    "name" : null,
+    "originalid" : null,
+    "parentid" : null,
+    "tokens" : {
+
+    },
+    "tokensIndex" : [
+
+    ],
+    "visible" : false
+  },
+  "version" : 55
+}
